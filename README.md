@@ -74,9 +74,7 @@ Each project folder contains:
 ## 👨‍💻 Author
 
 **Harsh Sharma**  
-AI Trainer · ML Enginner 
-📧 harsh.sharma@email.com  
+AI Trainer · ML Enginner  
 🔗 [GitHub](https://github.com/HarshSharma0007)  
-🔗 [LinkedIn](https://linkedin.com/in/harshsharma)
 
 ---
